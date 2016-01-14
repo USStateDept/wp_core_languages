@@ -1,0 +1,16 @@
+{
+    "name": "usstatedept/languages",
+    "description": "Language files for Wordpress Core",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sean Parker",
+            "email": "sparker@america.gov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "v1.0.21"
+    }
+}
