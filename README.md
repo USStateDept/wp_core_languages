@@ -1,7 +1,6 @@
 # wp_core_languages
 .mo files for wordpress core in different languages
 
-***
 
 ### Directions
 
@@ -21,3 +20,7 @@ Persian (Farsi) | https://translate.wordpress.org/locale/fa
 Portuguese | https://translate.wordpress.org/locale/pt-br
 Russian | https://translate.wordpress.org/locale/ru
 Spanish | https://translate.wordpress.org/locale/es
+
+#### Version 4.3
+
+Sean has some of the languages in 4.4 already once we're ready to update to that.
